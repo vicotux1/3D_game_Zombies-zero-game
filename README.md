@@ -1,6 +1,7 @@
-# The Island Zombies
-Esto es un Assets Flip queriendo ser un juego original. :)
-- Este Branch es empezar desde zero, con los scripts en blanco y sin tantos assets externos. 
-- Fuera "FPS Controller" Standard Assets, empece el Player desde cero. 
-- Elimine los 3d models de los assets y agregaré nuevos modelos con sus animaciones. 
+Menu Pricipal version 0.1.1
+![Captura01)](https://github.com/vicotux1/3D_game_Zombies-zero-game/blob/master/Assets/capturas/03.png)
+Captura Gameplay 0.1.1
+![Captura01)](https://github.com/vicotux1/3D_game_Zombies-zero-game/blob/master/Assets/capturas/02.png)
+Pausa ingame 0.1.1
+![Captura01)](https://github.com/vicotux1/3D_game_Zombies-zero-game/blob/master/Assets/capturas/01.png)
  
