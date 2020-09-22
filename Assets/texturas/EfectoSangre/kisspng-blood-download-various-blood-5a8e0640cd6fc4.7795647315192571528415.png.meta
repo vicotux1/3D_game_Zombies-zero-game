@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: 6b7203e2a401fd643bf17c7886c7fb48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2679009798380944950
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_0
+  - first:
+      213: -2365468693963833721
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_1
+  - first:
+      213: -1396834568012936251
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_2
+  - first:
+      213: -7296706246056942538
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_3
+  - first:
+      213: 7749298841831951332
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_4
+  - first:
+      213: -8176208530766609878
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_5
+  - first:
+      213: 5313948605914286771
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_6
+  - first:
+      213: 7295531775837327781
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_7
+  - first:
+      213: 5248981168716364848
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_8
+  - first:
+      213: -6312592316699392446
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_9
+  - first:
+      213: -583624236074419247
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_10
+  - first:
+      213: -5497459948105175466
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_11
+  - first:
+      213: 3216918403262736742
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_12
+  - first:
+      213: -7556618428022844030
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_13
+  - first:
+      213: 7473697254067260791
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_14
+  - first:
+      213: -5130033249763419325
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_15
+  - first:
+      213: -5519684932581741088
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_16
+  - first:
+      213: -5041203163654439056
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_17
+  - first:
+      213: -2886153590611679192
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_18
+  - first:
+      213: 5583741723657672092
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_19
+  - first:
+      213: 2874197440461426177
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_20
+  - first:
+      213: -188108338366664960
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_21
+  - first:
+      213: 2576426894940291494
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_22
+  - first:
+      213: -6298984544337943937
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_23
+  - first:
+      213: 219192851926496352
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_24
+  - first:
+      213: -5098172621037236516
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_25
+  - first:
+      213: 8761792224547372407
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_26
+  - first:
+      213: -7249121014324107884
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_27
+  - first:
+      213: 428936628883270739
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_28
+  - first:
+      213: -8684937352234676868
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_29
+  - first:
+      213: -5790394556889801182
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_30
+  - first:
+      213: -1694825411863058524
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_31
+  - first:
+      213: 6271499086810149974
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_32
+  - first:
+      213: -2715811333350610934
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_33
+  - first:
+      213: 1440743973479047610
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_34
+  - first:
+      213: 2217908225031594036
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_35
+  - first:
+      213: 81312321094407189
+    second: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 406
+        width: 169
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e7946b731cd2520800000000000000
+      internalID: 2679009798380944950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_1
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 460
+        width: 169
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e7af071ca2c2fd0800000000000000
+      internalID: -2365468693963833721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 557
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb4a937c527d9ce0800000000000000
+      internalID: -1396834568012936251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 438
+        width: 154
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634e66d2454ecba90800000000000000
+      internalID: -7296706246056942538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_4
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 521
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb4db53d3a0b8b60800000000000000
+      internalID: 7749298841831951332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_5
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 535
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22432229a5488e80800000000000000
+      internalID: -8176208530766609878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_6
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 492
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba04324a10feb940800000000000000
+      internalID: 5313948605914286771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_7
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 407
+        width: 162
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1db5a2f7fee3560800000000000000
+      internalID: 7295531775837327781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_8
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 473
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cbd0a009028d840800000000000000
+      internalID: 5248981168716364848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_9
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 465
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246c547cbba2568a0800000000000000
+      internalID: -6312592316699392446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_10
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 458
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbb97679dc86e7f0800000000000000
+      internalID: -583624236074419247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_11
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 444
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ee042dd4915b3b0800000000000000
+      internalID: -5497459948105175466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 308
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66964e96e3ac4ac20800000000000000
+      internalID: 3216918403262736742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 38
+        width: 296
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285178e839f712790800000000000000
+      internalID: -7556618428022844030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 199
+        width: 114
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dcd732e08e7b760800000000000000
+      internalID: 7473697254067260791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_15
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 318
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b98ed70f57ec8b0800000000000000
+      internalID: -5130033249763419325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 289
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eda3616cc32663b0800000000000000
+      internalID: -5519684932581741088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 318
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f3dcd9e6c0a0ab0800000000000000
+      internalID: -5041203163654439056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 295
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8286f50d99252f7d0800000000000000
+      internalID: -2886153590611679192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 303
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c959424838f6d7d40800000000000000
+      internalID: 5583741723657672092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 289
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e4a0d085333e720800000000000000
+      internalID: 2874197440461426177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 273
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fad508674b36df0800000000000000
+      internalID: -188108338366664960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_22
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 222
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1cda64c9e41c320800000000000000
+      internalID: 2576426894940291494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_23
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 245
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72af0d2ee28598a0800000000000000
+      internalID: -6298984544337943937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 279
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064326cccbaba0300800000000000000
+      internalID: 219192851926496352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 275
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde047f2307af39b0800000000000000
+      internalID: -5098172621037236516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_26
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 250
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dfce33b93289970800000000000000
+      internalID: 8761792224547372407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 267
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495646f48d2f56b90800000000000000
+      internalID: -7249121014324107884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 251
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cadb36793e3f500800000000000000
+      internalID: 428936628883270739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_29
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 105
+        width: 114
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dc78f2e77e87780800000000000000
+      internalID: -8684937352234676868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 202
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e5a3f44d264afa0800000000000000
+      internalID: -5790394556889801182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_31
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 189
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7e8997445ca78e0800000000000000
+      internalID: -1694825411863058524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_32
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 4
+        width: 114
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654718e0137d80750800000000000000
+      internalID: 6271499086810149974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_33
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 167
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0828a63bff7f4ad0800000000000000
+      internalID: -2715811333350610934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_34
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 83
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1e08fa20d8ef310800000000000000
+      internalID: 1440743973479047610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_35
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 73
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430ec6997c797ce10800000000000000
+      internalID: 2217908225031594036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-blood-download-various-blood-5a8e0640cd6fc4.7795647315192571528415_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 397
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514d1be0021e02100800000000000000
+      internalID: 81312321094407189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
