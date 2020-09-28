@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scenes/Main_Menu_2.unity
     guid: 31a7bc20af6089c0ca52cf9374835680
-  - enabled: 1
+  - enabled: 0
     path: Assets/scenes/prueba_01.unity
     guid: fa6559d07fe0623db975739a6e340140
+  - enabled: 1
+    path: Assets/Coin_colector/escena/6.unity
+    guid: 19d81dd278e13370fb56f6434ad12ff3
   m_configObjects: {}
